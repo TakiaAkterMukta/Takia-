@@ -1,0 +1,133 @@
+h1 {
+  font-size: 50px;
+}
+
+h2 {
+  font-size: 50px;
+}
+
+.blue-clr {
+  color: blue;
+}
+
+section {
+  display: flex;
+}
+
+.explore {
+  width: 50%;
+  padding-left: 5%;
+  padding-top: 5%;
+}
+
+.explore img {
+  width: 50%;
+}
+
+.link-button {
+  text-decoration: none;
+  background-image: linear-gradient(chartreuse);
+  background-color: chartreuse;
+  padding: 10px 40px;
+  color: blue;
+  font-weight: 700;
+  border-radius: 6px;
+}
+
+h4 {
+  margin-bottom: 5%;
+  color: brown;
+}
+
+h2 {
+  text-align: center;
+
+}
+
+.heading-clr {
+
+  color: brown;
+
+}
+
+.leftdiv img {
+  max-width: 30%;
+  max-height: 30%;
+}
+
+.leftdiv {
+  float: left;
+  background-color: burlywood;
+  border-radius: 13px;
+  margin-left: 3%;
+  margin-top: 1%;
+}
+
+.textcenter {
+  text-align: justify;
+  padding: 2%;
+}
+
+.middlediv img {
+  max-height: 30%;
+  max-width: 30%;
+
+}
+
+.middlediv {
+  background-color: cadetblue;
+  border-radius: 13px;
+  margin-left: 3%;
+  margin-top: 1%;
+
+}
+
+.rightdiv img {
+  max-width: 30%;
+  max-height: 30%;
+}
+
+.rightdiv {
+  background-color: cornsilk;
+  border-radius: 13px;
+  margin-left: 3%;
+  margin-top: 1%;
+}
+
+/* 3rd */
+
+.imgsize img {
+  margin-top: 50px;
+  margin-left: 30px;
+  padding: 155px;
+  height: 50%;
+  width: 70%;
+}
+
+.developerlimit {
+  text-align: center;
+  margin-top: 50%;
+  padding-left: 40%;
+  padding-right: 30%;
+}
+
+footer p {
+  text-align: center;
+  color: brown;
+  background-color: cornflowerblue;
+  width: 1500px;
+  height: 55px;
+  top: 3000px;
+  font-weight: 700;
+}
+
+
+
+form {
+  background-color: rgb(16, 137, 223);
+  max-width: 500px;
+  margin: 50px auto;
+  padding: 30px 20px;
+  box-shadow: 2px 5px 10px rgba(0, 0, 0, 0.5);
+
+}
